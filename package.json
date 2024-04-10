@@ -1,7 +1,7 @@
 {
   "name": "vue3-test-component",
   "private": false,
-  "version": "0.0.6",
+  "version": "0.0.7",
   "type": "module",
   "main": "./dist/vue3-test-component.umd.js",
   "module": "./dist/vue3-test-component.js",
@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vue3-test-component"
+    "url": "https://github.com/mvtcode/vue3-test-component"
   },
   "peerDependencies": {
     "vue": "^3.4.21"
